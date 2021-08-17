@@ -1,0 +1,21 @@
+
+U
+java:S1197^"8Move the array designator from the variable to the type.(ºÃİ 8·Ìö£µ/
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(£À€±8¢ƒ”¤µ/
+c
+java:S2259Y"AA "NullPointerException" could be thrown; "fis" is nullable here.(ß¶­†ÿÿÿÿÿ8Ó­Ë µ/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ıˆ µ/
+b
+java:S2259G"EA "NullPointerException" could be thrown; "iStream" is nullable here.(ÀÙõù8®ÃÿŸµ/
+}
+java:S1488""[Immediately return this expression instead of assigning it to the temporary variable "url".(«¼ˆğúÿÿÿÿ8ªê€§µ/
+|
+java:S11499"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8®ÃÿŸµ/
+L
+java:S2093P"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¿ãË µ/
+I
+java:S1068"'Remove this unused "uri" private field.(ó»şúÿÿÿÿ8Ù½Å µ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ë¯öûÿÿÿÿ8®ÃÿŸµ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç½’Óúÿÿÿÿ8®ÃÿŸµ/
+L
+java:S2093+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8®ÃÿŸµ/
